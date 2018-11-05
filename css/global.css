@@ -1,0 +1,10 @@
+.form_container{border:1px solid #ffffff(255, 2, 2);padding: 10px 40px; margin-top: 20vh;
+align-items: center;margin-left: 30px}
+
+input[type=number]{
+  width: 70px;
+}
+
+#menu{
+  color: brown;
+}
